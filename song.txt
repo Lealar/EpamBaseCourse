@@ -7,4 +7,4 @@ Some new line
 and Another one
 
 song for pushing 
----------------------------------------
+---
