@@ -4,7 +4,11 @@ New Changes
 
 
 Some new line
+<<<<<<< HEAD
 and Another one
 
 song for pushing 
 ----
+=======
+and Another one
+>>>>>>> parent of fc84583 (finish song)
