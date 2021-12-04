@@ -1,3 +1,2 @@
 # EpamBaseCourse
 
-some content
